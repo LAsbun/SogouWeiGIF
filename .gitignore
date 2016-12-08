@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# MY
+*.txt
+*.out
+.idea/
